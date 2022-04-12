@@ -7,12 +7,22 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+You have undoubtedly forgotten, neglected or even overdone tasks that you are interested in, simply because you couldn't spare the time or spent too much time. This app is simple, shareable and will help you complete and track your progress for any task, interest, or hobby.
 ### Features
-Include Features here
+* Users can create accounts
+* A clean interface
+* Completely custom routines for any task, interest, hobby, or reminder
+* Share progress or routines
+* Send feedback
 ### Technologies
-Include Technologies here
+* Java
+* Spring boot
+* MySQL
+* Hibernate
+* Thymeleaf templates
+* Javascript
+* CSS
 ### What I'll Have to Learn
-Include what you will need to learn here
+How to make java communicate with javascript
 ### Project Tracker
-Link to your Trello board here
+[Trello project](https://trello.com/b/duvHcEzP/lift-off)
