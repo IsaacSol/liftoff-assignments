@@ -23,6 +23,7 @@ You have undoubtedly forgotten, neglected or even overdone tasks that you are in
 * Javascript
 * CSS
 ### What I'll Have to Learn
-How to make java communicate with javascript
+* How to make java communicate with javascript
+* Send emails
 ### Project Tracker
 [Trello project](https://trello.com/b/duvHcEzP/lift-off)
