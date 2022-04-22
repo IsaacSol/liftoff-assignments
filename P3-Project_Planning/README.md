@@ -8,12 +8,14 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+* [Home page](https://github.com/IsaacSol/liftoff-assignments/blob/master/P3-Project_Planning/Home%20Page.jpg)
+* [Login/Register Page](https://github.com/IsaacSol/liftoff-assignments/blob/master/P3-Project_Planning/Login%20Page.jpg)
+* [Account Page](https://github.com/IsaacSol/liftoff-assignments/blob/master/P3-Project_Planning/Account%20Page.jpg)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Trello](https://trello.com/b/duvHcEzP/lift-off)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[Project on GitHub](https://github.com/April-2022-LC-LiftOff/JonH-GroupProject-Liftoff22/tree/master/Project)
